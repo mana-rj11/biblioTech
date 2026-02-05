@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/nmana/OneDrive/Documents/GitHub/dev-sgbd/lib/controlsfx-8.40.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nmana/OneDrive/Documents/GitHub/dev-sgbd/lib/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nmana/OneDrive/Documents/GitHub/dev-sgbd/lib/jaybird-5.0.3.java11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nmana/OneDrive/Documents/GitHub/dev-sgbd/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nmana/OneDrive/Documents/GitHub/dev-sgbd/lib/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nmana/OneDrive/Documents/GitHub/dev-sgbd/lib/lombok.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
