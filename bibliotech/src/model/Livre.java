@@ -8,8 +8,9 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor // Génère un constructeur vide (obligatoire pour beaucoup de frameworks)
 @AllArgsConstructor // Génère un constructeur avec tout les champs
 
-public class livre {
+public class Livre {
 	private Long id;
+	private String titre;
 	private String auteur;
 	private String isbn;
 	private String categorie;
